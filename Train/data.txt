@@ -1,0 +1,7 @@
+Date: 1/12/2022, trip number: 1, driver: Name: Hussein, civilid: 123456, age: 40, blood type: a, id:123, Max passengers: 10, Departure: Cairo, Arriving: Alex, Top speed: 100km/h
+Date: 1/12/2022, trip number: 2, driver: Name: Hussein, civilid: 123456, age: 40, blood type: a, id:123, Max passengers: 10, Departure: Alex, Arriving: Cairo, Top speed: 100km/h
+Date: 2/12/2022, trip number: 1, driver: Name: Hussein, civilid: 123456, age: 40, blood type: a, id:123, Max passengers: 10, Departure: Cairo, Arriving: Hurgada, Top speed: 100km/h
+Date: 2/12/2022, trip number: 2, driver: Name: Hussein, civilid: 123456, age: 40, blood type: a, id:123, Max passengers: 10, Departure: Hurgada, Arriving: Cairo, Top speed: 100km/h
+Date: 3/12/2022, trip number: 1, driver: Name: Hussein, civilid: 123456, age: 40, blood type: a, id:123, Max passengers: 10, Departure: Cairo, Arriving: Luxor, Top speed: 100km/h
+Date: 3/12/2022, trip number: 2, driver: Name: Hussein, civilid: 123456, age: 40, blood type: a, id:123, Max passengers: 10, Departure: Luxor, Arriving: Aswan, Top speed: 100km/h
+Date: 3/12/2022, trip number: 3, driver: Name: Hussein, civilid: 123456, age: 40, blood type: a, id:123, Max passengers: 10, Departure: Aswan, Arriving: Cairo, Top speed: 100km/h
